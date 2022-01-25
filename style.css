@@ -69,3 +69,19 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+/*
+#btn btn-primary:hover{
+  cursor: pointer;
+  background-color: whitesmoke;
+  color: black;
+  box-shadow:  0 0 5px whitesmoke, 0 0 10px whitesmoke, 0 0 15px whitesmoke;
+  font-weight: bold;
+}
+
+cursor: pointer;
+background-color: whitesmoke;
+color: black;
+box-shadow:  0 0 5px whitesmoke, 0 0 10px whitesmoke, 0 0 15px whitesmoke;
+font-weight: bold;
+*/
