@@ -26,6 +26,10 @@ $('.save').on("click", function () {
     
     var note = $(this).parent().parent().children().find('input').val();
     var hour = $(this).siblings("input").attr("data-time")
-   // console.log(note);
-    var myStorage = window.localStorage;
+    
+    localStorage.setItem("myKey", "Hello world!");
+    //Get the value of "myKey"
+    var data = localStorage.getItem("myKey");
+    //Console.log that data
+    console.log(data);
 });
