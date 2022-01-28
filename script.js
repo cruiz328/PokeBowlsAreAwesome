@@ -27,9 +27,7 @@ $('.save').on("click", function () {
     var note = $(this).parent().parent().children().find('input').val();
     var hour = $(this).siblings("input").attr("data-time")
     
-    localStorage.setItem(hour, note);
-    //Get the value of "myKey"
+    localStorage.setItem("mykey", note);
     var data = localStorage.getItem("myKey");
-    //Console.log that data
     console.log(data);
 });
