@@ -4,7 +4,10 @@
 # Technology Used
 - HTML, JavaScript, BootStrap MD Bootstrap
 # Website
-https://cruiz328.github.io/WhiskeyStraberries_WeatherDashboard/
+- https://cruiz328.github.io/WhiskeyStraberries_WeatherDashboard/
+- https://github.com/cruiz328/WhiskeyStraberries_WeatherDashboard
+
+
 <img width="1438" alt="Screen Shot 2022-04-01 at 8 25 41 PM" src="https://user-images.githubusercontent.com/95772578/161364152-d0d421d7-3263-4427-b686-0c3ac0c53085.png">
 <img width="1440" alt="Screen Shot 2022-04-01 at 8 25 51 PM" src="https://user-images.githubusercontent.com/95772578/161364155-4c737499-a109-4aca-9cc7-26ab66eacb7a.png">
 <img width="457" alt="Screen Shot 2022-04-01 at 8 25 58 PM" src="https://user-images.githubusercontent.com/95772578/161364160-eee292f4-387c-4951-9e04-418c748fb5bf.png">
