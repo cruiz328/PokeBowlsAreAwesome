@@ -1,7 +1,7 @@
 # PokeBowlsAreAwesome
-##Purpose
--This app is a Third-Party API Work Day Scheduler, in which a user can see a basic 9am-5pm, add a note that presists on the page even after a reset when saved by clicking the corresponding button.
-##Technology Used
+#Purpose
+This app is a Third-Party API Work Day Scheduler, in which a user can see a basic 9am-5pm, add a note that presists on the page even after a reset when saved by clicking the corresponding button.
+#Technology Used
 *HTML, *CSS, *JavaScript, *BootStrap *MD Bootstrap & *Google Fonts
 Website
 https://cruiz328.github.io/WhiskeyStraberries_WeatherDashboard/
