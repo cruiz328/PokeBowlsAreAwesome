@@ -2,9 +2,11 @@
 # Purpose
 - This app is a Third-Party API Work Day Scheduler, in which a user can see a basic 9am-5pm, add a note that presists on the page even after a reset when saved by clicking the corresponding button.
 # Technology Used
-- HTML, CSS, JavaScript, BootStrap MD Bootstrap & Google Fonts
+- HTML, JavaScript, BootStrap MD Bootstrap
 # Website
 https://cruiz328.github.io/WhiskeyStraberries_WeatherDashboard/
-<img width="1440" alt="Screen Shot 2022-04-01 at 8 11 23 PM" src="https://user-images.githubusercontent.com/95772578/161363706-5bbdac89-2c3d-4b5d-83b5-186ec6eadb1b.png">
-<img width="1440" alt="Screen Shot 2022-04-01 at 8 11 40 PM" src="https://user-images.githubusercontent.com/95772578/161363713-33c2c0f9-de1b-47cb-9b90-188ff47f4492.png">
-<img width="1440" alt="Screen Shot 2022-04-01 at 8 11 57 PM" src="https://user-images.githubusercontent.com/95772578/161363717-6f3d6dba-fce4-420b-bda6-3c49cd5afd6e.png">
+<img width="1438" alt="Screen Shot 2022-04-01 at 8 25 41 PM" src="https://user-images.githubusercontent.com/95772578/161364152-d0d421d7-3263-4427-b686-0c3ac0c53085.png">
+<img width="1440" alt="Screen Shot 2022-04-01 at 8 25 51 PM" src="https://user-images.githubusercontent.com/95772578/161364155-4c737499-a109-4aca-9cc7-26ab66eacb7a.png">
+<img width="457" alt="Screen Shot 2022-04-01 at 8 25 58 PM" src="https://user-images.githubusercontent.com/95772578/161364160-eee292f4-387c-4951-9e04-418c748fb5bf.png">
+<img width="120" alt="Screen Shot 2022-04-01 at 8 26 03 PM" src="https://user-images.githubusercontent.com/95772578/161364167-4d65eba6-1980-4fa7-97b1-7aecc7cc0807.png">
+<img width="541" alt="Screen Shot 2022-04-01 at 8 26 34 PM" src="https://user-images.githubusercontent.com/95772578/161364171-749c0d83-15e1-4472-9f17-0d36ae3d88f9.png">
